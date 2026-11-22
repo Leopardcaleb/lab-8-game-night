@@ -1,0 +1,14 @@
+C:\lab 8 game night\bin\Debug\net10.0\lab 8 game night.exe
+C:\lab 8 game night\bin\Debug\net10.0\lab 8 game night.deps.json
+C:\lab 8 game night\bin\Debug\net10.0\lab 8 game night.runtimeconfig.json
+C:\lab 8 game night\bin\Debug\net10.0\lab 8 game night.dll
+C:\lab 8 game night\bin\Debug\net10.0\lab 8 game night.pdb
+C:\lab 8 game night\obj\Debug\net10.0\lab 8 game night.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab 8 game night\obj\Debug\net10.0\lab 8 game night.AssemblyInfoInputs.cache
+C:\lab 8 game night\obj\Debug\net10.0\lab 8 game night.AssemblyInfo.cs
+C:\lab 8 game night\obj\Debug\net10.0\lab 8 game night.csproj.CoreCompileInputs.cache
+C:\lab 8 game night\obj\Debug\net10.0\lab 8 game night.dll
+C:\lab 8 game night\obj\Debug\net10.0\refint\lab 8 game night.dll
+C:\lab 8 game night\obj\Debug\net10.0\lab 8 game night.pdb
+C:\lab 8 game night\obj\Debug\net10.0\lab 8 game night.genruntimeconfig.cache
+C:\lab 8 game night\obj\Debug\net10.0\ref\lab 8 game night.dll
